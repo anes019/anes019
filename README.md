@@ -64,8 +64,7 @@
 <p align="left"> 
   &emsp; 
   <a href="#" target="_blank"> 
-  
-   <img alt="HTML" src="https://img.shields.io/badge/Angular%20-%23E34F26.svg?logo=html5&logoColor=white">
+   <img alt="HTML" src="./img/angular.svg">
   </a>  
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
