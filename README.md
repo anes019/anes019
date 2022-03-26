@@ -107,7 +107,7 @@
    <img alt="SpringBoot" src="https://img.shields.io/badge/-Springboot-orange">
   </a>  
   &emsp;
-  <a href="https://www.php.net/">
+  <a>
     <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
   </a>
 
@@ -148,13 +148,15 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anes019&hide=contribs,prs)
-  
+![My GitHub stats]()
+ <a> <img src="https://github-readme-stats.vercel.app/api?username=anes019&hide=contribs,prs" alt="Stats" height="192px"/> </a>
+
 <br>
 
   <br>
 </details>
   <summary>:zap: Recent GitHub Activity</summary>
-[![My github activity graph](https://activity-graph.herokuapp.com/graph?username=anes019&theme=github)](https://github.com/anes019/github-readme-activity-graph)
+     <a ><img alt="my Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=anes019&theme=github" /></a>
+
 
   <br/>
