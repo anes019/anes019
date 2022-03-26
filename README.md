@@ -3,15 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=217397&lines=Devops+engineer;FullStack+Web+developer;Freelancer+;Cloud+computing+enthusiast)](https://git.io/typing-svg)
 
 ---
-
-
-## 🔥 Some Stats
-<br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=anes019&label=Profile%20views&color=0e75b6&style=plastic" alt="anes019" /> 
-<br>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=anes019&theme=algolia" alt="anes019"  /></p>
-
----
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](https://anes019.github.io/MyResume/##gh-light-mode-only)
@@ -31,7 +22,7 @@
 
 
 
-
+---
 ## 🛠️ My Skills
 
 ### 👉 Devops tools
@@ -126,6 +117,13 @@
 <br/>
 
 
+---
+
+## 🔥 Some Stats
+<br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=anes019&label=Profile%20views&color=0e75b6&style=plastic" alt="anes019" /> 
+<br>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=anes019&theme=algolia" alt="anes019"  /></p>
 ---
 
 <details>
