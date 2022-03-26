@@ -148,14 +148,13 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="my GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anes019&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anes019&hide=contribs,prs)
+  
 <br>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anes019&show_icons=true&locale=en&layout=compact&theme=algolia" alt="anes019" height="192px"/>
+
   <br>
 </details>
   <summary>:zap: Recent GitHub Activity</summary>
+[![My github activity graph](https://activity-graph.herokuapp.com/graph?username=anes019&theme=github)](https://github.com/anes019/github-readme-activity-graph)
 
-   <a href="https://github.com/anes019"><img alt="my Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=anes019&custom_title=Mehdi%20Behira's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
