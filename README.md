@@ -2,19 +2,16 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=217397&lines=Devops+engineer;FullStack+Web+developer;Freelancer+;Cloud+computing+enthusiast)](https://git.io/typing-svg)
 
+---
 
 
+## 🔥 Some Stats
+<br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=anes019&label=Profile%20views&color=0e75b6&style=plastic" alt="anes019" /> 
+<br>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=anes019&theme=algolia" alt="anes019"  /></p>
 
-
-## I'm a Husband, Father, Developer, and Teacher!!
-
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to draw and play guitar / drums
-- 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
-
+---
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](https://anes019.github.io/MyResume/##gh-light-mode-only)
